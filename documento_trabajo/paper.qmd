@@ -1,0 +1,32 @@
+---
+title: "Conceptualización, medición y factores asociados a merecimiento"
+format:
+  html: default
+  hikmah-pdf: 
+    indent: false
+author: "René Canales"
+bibliography: "input/bib/refs.bib"
+csl: "input/bib/apa6.csl"
+link-citations: true
+linestretch: 1.15       
+mainfont: Times New Roman
+fontsize: 12pt          
+geometry: "left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm"
+papersize: letter
+colorlinks: true
+fig-height: 4
+fig-width: 7.5
+header-includes:
+  - \usepackage{threeparttable}
+---
+
+
+{{< include 01-introduction.qmd >}}
+
+{{< include 02-antecedentes.qmd >}}
+
+{{< include 03-proposal.qmd >}}
+
+{{< include 04-conclusion.qmd >}}
+
+{{< include 05-discussion.qmd >}}
