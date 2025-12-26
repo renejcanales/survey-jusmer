@@ -1,0 +1,11 @@
+---
+author: "Equipo EDUMER"
+bibliography: "input/bib/jusmer.bib"
+csl: "input/bib/apa6.csl"
+---
+
+# Introduction
+
+Este documento de trabajo tiene por objetivo (i) establecer el marco conceptual del proyecto sobre justicia de mercado y merecimiento del bienestar; (ii) precisar definiciones operativas y los principales mecanismos teóricos que guían las hipótesis; y (iii) traducir ese marco a decisiones concretas de diseño para la encuesta del proyecto (modo de recolección, población objetivo, estrategia de cuotas y dominios/constructos a medir). En conjunto, el documento busca servir como base común para el desarrollo del cuestionario, la planificación del levantamiento y la implementación de los análisis.
+
+En lo que sigue, el documento primero describe el marco conceptual del proyecto y luego explicita la pregunta de investigación general, las hipótesis y los estudios planificados para responderlas. Posteriormente, se establecen las bases del diseño de la encuesta “Mercado, merecimiento y mérito”, seguidas de los dominios y constructos a incluir.

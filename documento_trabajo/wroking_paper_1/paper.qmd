@@ -1,11 +1,11 @@
 ---
-title: "Conceptualización, medición y factores asociados a merecimiento"
+title: "Marco conceptual y mapa de constructos Diseño base para encuesta Mercado, merecimiento y mérito"
 format:
   html: default
   hikmah-pdf: 
     indent: false
-author: "René Canales"
-bibliography: "input/bib/refs.bib"
+author: "Andreas Laffert"
+bibliography: "input/bib/jusmer.bib"
 csl: "input/bib/apa6.csl"
 link-citations: true
 linestretch: 1.15       
@@ -27,6 +27,4 @@ header-includes:
 
 {{< include 03-proposal.qmd >}}
 
-{{< include 04-conclusion.qmd >}}
-
-{{< include 05-discussion.qmd >}}
+{{< include 04-discussion.qmd >}}

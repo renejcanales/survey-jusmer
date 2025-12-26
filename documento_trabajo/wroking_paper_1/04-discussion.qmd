@@ -1,0 +1,39 @@
+---
+author: "Equipo EDUMER"
+bibliography: "input/bib/jusmer.bib"
+csl: "input/bib/apa6.csl"
+---
+
+# Diseño de Encuesta
+
+Para responder a buena parte de las preguntas de investigación e hipótesis planteadas por este proyecto, se elaborará y aplicará una encuesta a la población adulta en Chile. Esta encuesta será de corte transversal y se administrará bajo modalidad CAWI a un panel online de una empresa especializada. Esta empresa proveerá la muestra y la aplicación de la encuesta, pero el cuestionario será elaborado por el proyecto. En cuanto al diseño, esta encuesta no se basa en un muestreo aleatorio; en su lugar, se utilizarán cuotas para asegurar una mayor representación de distintos grupos (estatus socioeconómico, sexo, edad y educación), tomando como referencia fuentes como el Censo 2024 y el CASEN 2022 para definir las proporciones objetivo y el N estimado por cuota. Se estima un N total de 3.500 casos completos. La duración esperada es de aproximadamente 30 minutos (≈ 40 preguntas, dependiendo de las baterías y las rotaciones). La población objetivo corresponde a personas adultas residentes en Chile con acceso a internet. Dado que se trata de un panel no probabilístico, el estudio no pretende inferir directamente a la población chilena total; el alcance inferencial se define respecto de esta población objetivo y se reforzará mediante cuotas, controles de calidad y, si corresponde, ajustes ex post (p. ej., post-estratificación).
+
+Es importante destacar algunas ventajas y desventajas de este diseño de encuesta en línea.
+
+**Ventajas**
+
+- Escala y eficiencia/costos (Biffignandi & Bethlehem, 2021; Callegaro et al., 2015)
+
+- Flexibilidad de diseño (Höhne et al., 2020)
+Reduce el sesgo del encuestador (especialmente en experimentos de encuesta) (Callegaro et al., 2015)
+Acceso/participación (Biffignandi & Bethlehem, 2021)
+
+**Desventajas**
+
+- Error de cobertura: penalización a grupos desaventajados (Tourangeau et al., 2013)
+
+- Sesgo de autoselección y consecuencias de incentivos (Smyth, 2011; Tourangeau et al., 2013)
+Problemas de no respuesta (West et al., 2023)
+
+## Dominios y constructos a incluir
+| Dominio/Constructo | Variables/Ítems |
+|-------------------|-----------------|
+| **Sociodemográficos** | Sexo, edad, ingresos, educación, ocupación, ID política, religión, etnia, escuela de origen, nacionalidad, tamaño hogar, estatus social subjetivo |
+| **Justicia de mercado** | Ítems en salud, educación, pensiones; mejoras de medición por dominio e inclusión de otros: cuidado infantil, desempleo, gasto social y rol individual |
+| **CARIN** | Control, Actitud, Reciprocidad, Identidad, Necesidad (Meuleman et al., 2020) |
+| **Meritocracia** | Percepciones y preferencias meritocráticas y no meritocráticas (Castillo et al., 2023) |
+| **Neoliberalismo** | Actitudes pro-mercado / responsabilidad individual (Grzanka et al., 2020) |
+| **Actitudes hacia la desigualdad** | Percepción de desigualdad, preferencias redistributivas, mercado vs Estado |
+| **ISSP** | Experimento distribucional |
+| **Experimento distribucional** | Asignación de recursos (Gilgen, 2020) |
+

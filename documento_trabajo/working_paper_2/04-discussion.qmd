@@ -1,0 +1,13 @@
+---
+author: "Equipo EDUMER"
+bibliography: "input/bib/jusmer.bib"
+csl: "input/bib/apa6.csl"
+---
+
+# Discussion
+
+El merecimiento emerge como un constructo multidimensional que estructura las percepciones ciudadanas sobre la justicia distributiva en el Estado de bienestar contemporáneo. Lejos de ser un juicio moral simple, las evaluaciones de merecimiento operan a través de múltiples dimensiones (Control, Actitud, Reciprocidad, Identidad y Necesidad) que pueden activarse de manera independiente o contradictoria según el contexto. La investigación más reciente ha permitido refinar este marco, demostrando que la ciudadanía aplica criterios de justicia sofisticados, como el "corte de responsabilidad", para distinguir entre la suerte bruta y la opcional (Chanel et al., 2025), y que es posible desagregar empíricamente si el apoyo redistributivo nace de la aversión a la desigualdad o del altruismo puro (Epper & Mitrouchev, 2025).
+
+La expansión del concepto desde los "pobres no merecedores" hacia los "ricos no merecedores" representa un avance teórico crucial, pues reconoce que la legitimidad de la redistribución se juega en ambos extremos de la estructura social. Sin embargo, este juicio no es neutral: el éxito económico genera un sesgo de autojustificación que lleva a las élites a subestimar el papel de la suerte en sus logros, reforzando los ciclos de desigualdad mediante creencias meritocráticas distorsionadas (Fehr & Vollmann, 2025). Afortunadamente, los avances metodológicos —desde escalas validadas hasta módulos de encuesta y experimentos de votación incentivada— permiten ahora capturar estas dinámicas con una precisión inédita, superando las limitaciones históricas de la inferencia indirecta.
+
+Finalmente, persisten desafíos importantes. La evidencia sobre la discrepancia entre la percepción y la realidad de las desigualdades (Kulic et al., 2025), sumada a la "ignorancia motivada" de los exitosos ante información correctiva (Fehr & Vollmann, 2025), sugiere que la formación de preferencias es un proceso cognitivamente sesgado. Además, la capacidad del merecimiento para penetrar incluso en los ámbitos de los derechos universales indica que la solidaridad ciudadana es más frágil y condicional de lo que se asume. Comprender estas dinámicas es esencial para diseñar Estados de bienestar que no solo sean eficientes, sino que también logren navegar las complejas intuiciones morales de una ciudadanía que exige, ante todo, justicia en los procesos.

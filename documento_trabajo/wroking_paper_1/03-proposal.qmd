@@ -1,0 +1,40 @@
+---
+author: "Equipo EDUMER"
+bibliography: "input/bib/jusmer.bib"
+csl: "input/bib/apa6.csl"
+---
+
+# Proposal
+
+## Pregunta de investigación. 
+
+¿En qué medida las preferencias por la justicia de mercado en distintos dominios del bienestar (salud, educación, pensiones y otros) se asocian a criterios de merecimiento —en particular, a criterios meritocráticos de control vía esfuerzo— y cómo varían estas preferencias entre países, en el tiempo (Chile, últimas dos décadas) y entre grupos sociales?
+
+## Hipótesis (ver Figura 1)
+
+1. Merecimiento → justicia de mercado: las preferencias por la justicia de mercado se asocian con criterios de merecimiento, especialmente con el control meritocrático (esfuerzo/mérito) por encima de otros criterios (p. ej., necesidad).
+
+2. Estatus socioeconómico: el estatus socioeconómico se vincula con la justicia de mercado (diferencias sistemáticas en ingresos, educación y ocupación).
+
+3. Factores socio-estructurales: edad, género y situación de empleo/desempleo se asocian a justicia de mercado (exposición al riesgo y vulnerabilidad).
+
+4. Factores subjetivos: las percepciones y creencias sobre la desigualdad (y las orientaciones políticas) se asocian con la justicia de mercado.
+
+5. Moderación individual: variables de estatus, subjetivas y socioestructurales moderan el vínculo entre el merecimiento y la justicia de mercado (heterogeneidad del mecanismo).
+
+6. Contexto país: la desigualdad y otras variables macroeconómicas se asocian con los niveles de justicia de mercado.
+
+7. Moderación contextual: el contexto país modera el vínculo entre el merecimiento y la justicia de mercado (mecanismo dependiente de la institucionalidad y la estructura).
+
+![Modelo de hipótesis](../images/hipotesis.png)
+
+## Estudios planificados
+
+- Estudio comparativo internacional con encuestas (ISSP) para estimar niveles y correlatos de justicia de mercado y su relación con el merecimiento en múltiples países.
+
+- Estudio longitudinal en Chile (ISSP/CEP desde 1999) para identificar cambios a lo largo de dos décadas.
+
+- Encuesta propia para (i) ampliar dominios, (ii) medir CARIN y escalas ideacionales con mejor validez, y (iii) estimar mecanismos y heterogeneidades (incluyendo un módulo experimental distribucional)
+
+
+
